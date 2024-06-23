@@ -1,1 +1,2 @@
-# Podstawy-Aplikacji-Internetowych-Projekt-Ko-cowy
+# Podstawy-Aplikacji-Internetowych-Projekt
+Projekt zaliczeniowy z zajęć
